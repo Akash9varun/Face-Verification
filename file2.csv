@@ -1,0 +1,4 @@
+,identity,VGG-Face_cosine,Facenet_cosine,Facenet512_cosine,OpenFace_cosine,DeepFace_cosine,DeepID_cosine,ArcFace_cosine,Dlib_cosine,SFace_cosine
+0,/Users/akashvarun/Desktop/Face Verification/photos//d2.png,3.3306690738754696e-16,,,,,,,,
+1,/Users/akashvarun/Desktop/Face Verification/photos//d1.png,0.1964546738448386,,,,,,,,
+2,/Users/akashvarun/Desktop/Face Verification/photos//d3.png,0.21426246374548286,,,,,,,,
